@@ -1,0 +1,212 @@
+
+body {
+    margin: 0;
+    text-align: center;
+    font-family: 'Roboto', sans-serif;
+}
+
+hr{
+    border: 7px;
+    border-style: hidden hidden dotted;
+    border-color: #B0DAFF;
+    width: 6%;
+}
+
+
+h2 {
+    font-size: 30px;
+    color: #146C94;
+}
+
+h3 {
+    font-family: 'Sacramento', sans-serif;
+}
+
+.description {
+    font-family: 'Roboto Mono', monospace;
+    font-size: 1.7rem;
+    color: #146C94;
+    position: relative;
+    /* display: flex; */
+    align-items: center;
+    margin-top: 0;
+    text-align: center;
+}
+
+.background {
+    height: 100vh;
+    width: 100%;
+    text-align: center;
+}
+
+.name {
+    font-family: 'Sacramento', sans-serif;
+    font-size: 6rem;
+    color: #146C94;
+    margin-bottom: 0;
+}
+
+.programmer {
+    margin-top: 0;
+}
+
+.name-div {
+    position: absolute;
+    margin-top: 30vh;
+    padding: 0;
+    width: 100%;
+}
+
+.titles {
+    background-color: #B0DAFF;
+    position: relative;
+    height: 100vh;
+    width: 100vh;
+    padding: 0;
+}
+
+.middle {
+    position: relative;
+}
+
+.bottom {
+    height: 110px;
+    width: 100%;
+    margin-left: auto;
+    margin-right: auto;
+    align-items: center;
+    margin-top: 90px;
+    font-size: 15px;
+    display: inline-block;
+    padding-bottom: 30px;
+    padding-top: 30px;
+    background-color: #B0DAFF;
+}
+
+
+.profile_pic {
+    height: 250px;
+    border-radius: 100%;
+    display: block;
+    margin-top: 90px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.profile {
+    margin: 70px;
+}
+
+.hello {
+    position: relative;
+    bottom: 30px;
+    font-family: 'Roboto', sans-serif;
+}
+
+.para {
+    position: relative;
+    bottom: 0;
+    font-size: 17px;
+    margin-bottom: 130px;
+    width: 65%;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.hr1 {
+    position: relative;
+    bottom: 50px;
+}
+
+.skill-row {
+    align-items: left;
+    margin-top: 80px;
+}
+
+.skills {
+    position: relative;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 100px;
+    width: 50%;
+    line-height: 2.4;
+}
+
+.skill-image {
+    height: 180px; 
+    /* width: 25%; */
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+
+}
+
+.python {
+    position: relative;
+    height: 170px;
+}
+
+.html {
+    position: relative;
+}
+
+.skill-row-html {
+    margin-top: 150px;
+    margin-bottom: 150px;
+}
+
+.skill-text-python {
+    margin-top: 30px;
+    text-align: center;
+}
+
+.skill-text-html {
+    text-align: center;
+}
+
+.skill-row-html {
+    text-align: center;
+}
+
+.hr2 {
+    position: relative;
+    top: 50px;
+}
+
+.contact {
+    margin-top: 60px;
+}
+
+.email {
+    height: 100px;
+}
+
+.whatsapp {
+    height: 63px;
+    margin-left: 30px;
+    margin-bottom: 27px;
+}
+
+.links {
+    display: inline;
+    padding: 20px;
+    margin-top: 20px;
+    margin-bottom: 40px;
+}
+
+.anchors {
+    color: #146C94;
+    text-decoration: none;
+}
+
+.contribute {
+    border: 30px;
+    background-color: #B0DAFF;
+    margin-top: 0;
+    padding: 90px;
+    line-height: 1.5;
+}
+
+.contribute-links {
+    margin: 60px auto 60px;
+}
